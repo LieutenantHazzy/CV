@@ -1,0 +1,25 @@
+{
+  "accent": "#1d4ed8",
+  "photo": "assets/photo.jpg",
+  "photo_focus": "center 25%",
+  "max_width": 480,
+  "email": "jij@voorbeeld.nl",
+  "phone": "+31 6 12 34 56 78",
+  "location": "Plaats, Nederland",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/jouw-handle" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/jouw-profiel" }
+  ],
+  "sections": [
+    "profiel",
+    "werkervaring",
+    "opleiding",
+    "vaardigheden"
+  ],
+  "badges": [
+    "vaardigheden",
+    "vaardigheden en kennis",
+    "skills",
+    "kennis"
+  ]
+}

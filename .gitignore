@@ -1,0 +1,27 @@
+# The directory Mix will write compiled artifacts to.
+/_build/
+
+# If you run "mix test --cover", coverage assets end up here.
+/cover/
+
+# Where third-party dependencies like ExDoc output generated docs.
+/doc/
+
+# Temporary files, for example, from tests and the image cache.
+/tmp/
+
+# If the VM crashes, it generates a dump, let's ignore that too.
+erl_crash.dump
+
+# Also ignore archive artifacts (built via "mix archive.build").
+*.ez
+
+# Your own cv, its settings and your photo. These are personal data, so they
+# stay out of the repository; copy the *.example files instead.
+/input/cv.md
+/config.json
+/assets/*
+!/assets/README.md
+
+# The generated cv.
+/output/
